@@ -1,5 +1,7 @@
 # laravel-topology
 
+[![Liberapay receiving](https://img.shields.io/liberapay/receives/danhunsaker.svg?style=flat-square)](https://liberapay.com/danhunsaker/)
+
 A Laravel package for [`password-topology-check`][]
 
 ## What is it?
